@@ -1,6 +1,6 @@
 # 1x4_card
 
-This is a Fun project for sharing contact info that is also a macro pad.
+This is a fun project for sharing contact info that is also a macro pad.
 
 # Parts
 
