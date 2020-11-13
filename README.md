@@ -19,7 +19,7 @@ This is Fun Project with contact info that is also a macro pad
 •	1 piezo (optional) & (if used please install from below with standoffs)
 
 •	1 tactile button 
-
+<p><img src="https://github.com/ramixp1/1x4_card/blob/main/1.jpg?raw=true" alt="" /></p>
  
 
 # Build
@@ -27,6 +27,9 @@ This is Fun Project with contact info that is also a macro pad
 Solder the Pro Micro face down onto the PCB with standoffs.
 
 Solder the switches
+
+
+<p><img src="https://github.com/ramixp1/1x4_card/blob/main/2.jpg?raw=true" alt="" /></p>
 
 
 # Firmware
