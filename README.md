@@ -24,7 +24,7 @@ This is a fun project for sharing contact info that is also a macro pad.
 
 # Build
 
-Solder the Pro Micro face down onto the PCB with standoffs.
+Solder the Pro Micro face up onto the PCB with standoffs.
 
 Solder the switches
 
