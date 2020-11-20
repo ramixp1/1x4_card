@@ -36,7 +36,7 @@ Solder the switches
 The card uses QMK as the firmware. To setup QMK, please referee to https://docs.qmk.fm/#/
 
 you can download the keyboard files from:
-https://github.com/ramixp1/qmk_firmware/tree/ramixp1/keyboards/1x4_card
+https://github.com/ramixp1/qmk_firmware/tree/master/keyboards/1x4_card
 
 <p><code> # make 1x4_card:default:avrdude</code></p>
 
